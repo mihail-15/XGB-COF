@@ -16,7 +16,7 @@ patheffects: for adding effects to paths in matplotlib
 
 Installation
 
-The software can be downloaded from https://github.com/mihail-15/XGB-COF.git or https://codeocean.com/capsule/?????. The software consists of one python script called XGB-COF.py that contains all the code for data loading, processing, modeling, evaluation, visualization, and saving. The software also requires an Excel file called pred_COF_AE.xlsx that contains the input and output variables for each sample of the porous AlSi10Mg-Al2O3 composite materials. Place the XLSX file in the same folder as the python code.
+The software can be downloaded from https://github.com/mihail-15/XGB-COF.git or https://codeocean.com/capsule/7130568/tree/v1. The software consists of one python script called XGB-COF.py that contains all the code for data loading, processing, modeling, evaluation, visualization, and saving. The software also requires an Excel file called pred_COF_AE.xlsx that contains the input and output variables for each sample of the porous AlSi10Mg-Al2O3 composite materials. Place the XLSX file in the same folder as the python code.
 
 Usage
 
