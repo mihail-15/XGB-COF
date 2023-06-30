@@ -35,3 +35,7 @@ test_val_data_AE.xlsx: This file contains a DataFrame from the actual and predic
 License
 
 The software is licensed under the MIT license, See LICENSE for more details.
+
+References
+
+Kolev, M. XGB-COF: A Machine Learning Software in Python for Predicting the Friction Coefficient of Porous Al-Based Composites with Extreme Gradient Boosting. Softw. Impacts 2023, 100531, doi:10.1016/j.simpa.2023.100531.
