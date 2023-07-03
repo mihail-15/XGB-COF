@@ -2,7 +2,6 @@
 XGB-COF is a python software that predicts the coefficient of friction (COF) of porous AlSi10Mg-Al2O3 composite materials using XGBoost, a powerful and scalable machine learning algorithm. The porous AlSi10Mg-Al2O3 composite materials were tested by pin-on-disk method under dry sliding conditions.
 
 Requirements
-
 The software requires python 3.7 or higher to run. The software also requires several packages that can be installed using pip or conda commands. The required packages are:
 
 pandas: for data manipulation and analysis
@@ -11,7 +10,6 @@ xgboost: for machine learning
 sklearn: for machine learning
 matplotlib: for visualization
 patheffects: for adding effects to paths in matplotlib
-
 
 Installation
 
@@ -36,12 +34,9 @@ License
 The software is licensed under the MIT license, See LICENSE for more details.
 
 Funding
+
 This research was funded by Bulgarian National Science Fund, Project № КП-06-Н57/20 “Fabrication of new type of self-lubricating antifriction metal matrix composite materials with improved mechanical and tribological properties”.
 
 References
 
 Kolev, M. XGB-COF: A Machine Learning Software in Python for Predicting the Friction Coefficient of Porous Al-Based Composites with Extreme Gradient Boosting. Softw. Impacts 2023, 100531, doi:[10.1016/j.simpa.2023.100531](https://doi.org/10.1016/j.simpa.2023.100531).
-
-
-
-
