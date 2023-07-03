@@ -1,5 +1,4 @@
 # XGB-COF
-
 XGB-COF is a python software that predicts the coefficient of friction (COF) of porous AlSi10Mg-Al2O3 composite materials using XGBoost, a powerful and scalable machine learning algorithm. The porous AlSi10Mg-Al2O3 composite materials were tested by pin-on-disk method under dry sliding conditions.
 
 Requirements
