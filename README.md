@@ -36,6 +36,9 @@ License
 
 The software is licensed under the MIT license, See LICENSE for more details.
 
+Funding
+This research was funded by Bulgarian National Science Fund, Project № КП-06-Н57/20 “Fabrication of new type of self-lubricating antifriction metal matrix composite materials with improved mechanical and tribological properties”.
+
 References
 
 Kolev, M. XGB-COF: A Machine Learning Software in Python for Predicting the Friction Coefficient of Porous Al-Based Composites with Extreme Gradient Boosting. Softw. Impacts 2023, 100531, doi:[10.1016/j.simpa.2023.100531](https://doi.org/10.1016/j.simpa.2023.100531).
